@@ -8,12 +8,6 @@ edit_uri: edit/master/docs/ #blob/master/docs
 theme: readthedocs
 markdown_extensions:
     - smarty
-    - pymdownx.tasklist
-    - pymdownx.highlight
-    - pymdownx.details
-    - pymdownx.mark
-    - pymdownx.arithmatex
-
     - toc:
         permalink: True
 
