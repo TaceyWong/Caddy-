@@ -1,0 +1,27 @@
+site_name: Caddy源码分析
+site_url: https://github.com/TaceyWong/CaddySourceCodeAnalysis
+site_description: Caddy源码分析
+site_author: Tacey Wong
+copyright: Tacey Wong
+repo_url: https://github.com/TaceyWong/CaddySourceCodeAnalysis
+edit_uri: edit/master/docs/ #blob/master/docs
+theme: readthedocs
+markdown_extensions:
+    - smarty
+    - pymdownx.tasklist
+    - pymdownx.highlight
+    - pymdownx.details
+    - pymdownx.mark
+    - pymdownx.arithmatex
+
+    - toc:
+        permalink: True
+
+nav:
+  - '简介': 'index.md'
+  - 'Caddy源码分析':
+    - '1 Caddy整体结构': 'caddy/0.md'
+  - 'CertMagic源码分析':
+    - '1 -Cermagic整体结构': 'certmagic/0.md'
+  - 'xcaddy源码分析':
+    - '1 -XCaddy整体结构': 'xcaddy/0.md'
