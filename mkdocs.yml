@@ -2,7 +2,7 @@ site_name: Caddy源码分析
 site_url: https://github.com/TaceyWong/CaddySourceCodeAnalysis
 site_description: Caddy源码分析
 site_author: Tacey Wong
-copyright: Tacey Wong
+copyright: Copyright &copy; 2020 - N/A <a href="https://github.com/TaceyWong"  target="_blank" rel="noopener">Tacey Wong</a>
 repo_url: https://github.com/TaceyWong/CaddySourceCodeAnalysis
 edit_uri: edit/master/docs/ #blob/master/docs
 theme: readthedocs
